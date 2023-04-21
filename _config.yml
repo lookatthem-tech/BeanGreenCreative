@@ -2,7 +2,7 @@
 title: Bean Green Creative
 subtitle: by Bean Green Creative
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: This site lets you view the many<br /> available works from Bean Green Creative.
 baseurl: "/BeanGreenCreative/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -25,12 +25,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/lookatthem-tech
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Google-Plus: 
+  Instagram: Add your instagram here!!!
+  LinkedIn: 
+  Twitter: 
   Facebook:
   Slack:
 
