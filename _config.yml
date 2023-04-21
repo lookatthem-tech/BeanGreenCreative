@@ -1,17 +1,21 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Bean Green Creative
+subtitle: by Bean Green Creative
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+city: Carmel
+state: IN
 zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
+
+# the following is the required destination for github action to work
+destination: "./build"
+
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
